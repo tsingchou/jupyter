@@ -15,4 +15,4 @@
 ```docker-compose up --build```
 ## 运行
 运行端口为8889
-```http;//localhost:8889```
+```http://localhost:8889```
